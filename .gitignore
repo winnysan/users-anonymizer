@@ -1,0 +1,6 @@
+*
+!.gitignore
+!readme.md
+!script.js
+!package.json
+!package-lock.json
